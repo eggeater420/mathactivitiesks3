@@ -1,7 +1,7 @@
 {
-    "name": "Bigfoot's Game Shack",
-    "short_name": "BGS",
-    "description": "Welcome to Bigfoot's Game Shack! Play over 500+ Free web games instantly with BGS. ",
+    "name": "Dipster Network",
+    "short_name": "DN",
+    "description": "Fork of BGS - From England ",
     "display": "fullscreen",
     "start_url": ".",
     "icons": [
